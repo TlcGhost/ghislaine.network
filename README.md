@@ -1,2 +1,2 @@
-# ghislaine.network
-landing page - deployment to github actions
+ghislaine.network
+
